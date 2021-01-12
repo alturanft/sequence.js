@@ -12,6 +12,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@ethersproject/properties": "^5.0.7"
   },
   "peerDependencies": {},
   "devDependencies": {
