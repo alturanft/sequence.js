@@ -25,7 +25,7 @@
     "dist"
   ],
   "dependencies": {
-    "@0xsequence/utils": "workspace:*",
-    "@0xsequence/abi": "workspace:*"
+    "@0xsequence/utils": "github:alturanft/sequence.js#utils-only",
+    "@0xsequence/abi": "github:alturanft/sequence.js#abi-only"
   }
 }
